@@ -1,0 +1,182 @@
+{
+  "legal_sections": [
+    {
+      "section_number": "IPC Sections 375-376E",
+      "title": "Law on Rape",
+      "explanation": "Outlines the comprehensive legal framework and various provisions related to the crime of rape, including its definition and prescribed punishments."
+    },
+    {
+      "section_number": "IPC Section 375",
+      "title": "Definition of Rape",
+      "explanation": "Defines what constitutes the crime of rape, occurring when a man has sexual intercourse with a woman without her consent, and specifies various acts of sexual penetration that qualify as rape."
+    },
+    {
+      "section_number": "IPC Explanation 2, Section 375",
+      "title": "Invalid Consent in Rape",
+      "explanation": "Details specific circumstances under which a woman's consent is considered invalid, such as consent obtained by force, mistaken identity, incapacity to understand due to unsoundness of mind or intoxication, or if the woman is under eighteen years of age."
+    },
+    {
+      "section_number": "IPC Section 375, Description 6",
+      "title": "Rape (Circumstances where consent is irrelevant due to age)",
+      "explanation": "If a man has sex with a seventeen year-old girl, it is considered as rape, even if the girl agrees to have sex, as her consent is legally irrelevant below eighteen years of age."
+    },
+    {
+      "section_number": "IPC Section 376(1)",
+      "title": "Punishment for Rape",
+      "explanation": "The punishment for rape is imprisonment for ten years to life imprisonment, along with a fine."
+    },
+    {
+      "section_number": "IPC Section 376(3)",
+      "title": "Enhanced Punishment for Rape (Survivor below sixteen years)",
+      "explanation": "When the survivor is below sixteen years, the punishment is imprisonment for twenty years to life imprisonment (imprisonment for the rest of the person's life), along with a fine."
+    },
+    {
+      "section_number": "IPC Section 376AB",
+      "title": "Punishment for Rape (Survivor below twelve years, including death penalty)",
+      "explanation": "If the survivor is below twelve years, the perpetrator can be given the death penalty."
+    },
+    {
+      "section_number": "IPC Section 376A",
+      "title": "Punishment for Rape (resulting in death or vegetative state)",
+      "explanation": "If rape results in an injury which causes the death of the woman or puts her in a persistent vegetative state, the perpetrator is punishable with imprisonment for twenty years to life imprisonment (imprisonment for the rest of the person's life), or with death."
+    },
+    {
+      "section_number": "IPC Section 376D",
+      "title": "Punishment for Gang Rape",
+      "explanation": "Gang rape refers to the rape of a woman by multiple people/a group of people acting together with the common intention. The punishment is imprisonment for twenty years to life imprisonment, with enhanced penalties (life imprisonment or death) if the survivor is below sixteen or twelve years respectively."
+    },
+    {
+      "section_number": "Domestic Violence Act, 2005, Section 3",
+      "title": "Meaning of domestic violence",
+      "explanation": "Defines what constitutes 'domestic violence', including sexual abuse, and any behavior of a sexual nature that abuses, humiliates, degrades, or violates the dignity of a woman."
+    },
+    {
+      "section_number": "IPC Section 376B",
+      "title": "Intercourse by husband upon his wife during separation",
+      "explanation": "Punishes a husband for sexual intercourse without his wife's consent when they are living separately, with imprisonment between two and seven years and a fine."
+    },
+    {
+      "section_number": "IPC Section 376E",
+      "title": "Punishment for repeat offenders",
+      "explanation": "Prescribes enhanced punishment, including imprisonment for life, for persons who have been previously convicted of an offence under certain sections related to rape."
+    },
+    {
+      "section_number": "IPC Section 376DA",
+      "title": "Punishment for committing gang rape on a woman under twelve years of age",
+      "explanation": "Prescribes punishment for committing gang rape on a woman under twelve years of age, which includes rigorous imprisonment for life and a fine."
+    },
+    {
+      "section_number": "IPC Section 376C",
+      "title": "Intercourse by person in authority",
+      "explanation": "Punishes individuals who, being in a position of authority (e.g., public servant, superintendent of a jail, hospital staff), abuse their position or fiduciary relationship to induce a woman to have sexual intercourse, with imprisonment for five to ten years and a fine."
+    },
+    {
+      "section_number": "CrPC Section 157(1) Proviso",
+      "title": "Procedure for investigation (Proviso - statement recording)",
+      "explanation": "This proviso to Section 157(1) outlines special procedures for investigation, particularly regarding the recording of statements of victims, often emphasizing recording by a woman police officer in the presence of support persons like parents, guardians, or social workers, especially when it involves vulnerable individuals."
+    },
+    {
+      "section_number": "CrPC Section 154 Proviso (a)",
+      "title": "Information in cognizable cases (Proviso a - victim's comfort)",
+      "explanation": "This proviso to Section 154 specifies that in certain cases, particularly involving victims of specific offenses or those with physical/mental disabilities, the information (FIR) may be recorded by a woman police officer or other designated persons at the victim's residence or a place of their choice."
+    },
+    {
+      "section_number": "CrPC Section 154 Proviso",
+      "title": "Information in cognizable cases (Proviso - woman officer)",
+      "explanation": "This proviso to Section 154 stipulates that information relating to the commission of certain offenses, especially those against women (e.g., sexual assault), shall be recorded by a woman police officer or any other woman officer."
+    },
+    {
+      "section_number": "CrPC Section 154",
+      "title": "Information in cognizable cases (FIR)",
+      "explanation": "This section mandates the police to record information relating to the commission of a cognizable offence, whether given orally or in writing, which is commonly known as the First Information Report (FIR)."
+    },
+    {
+      "section_number": "CrPC Section 164A(6)",
+      "title": "Forwarding of medical report (Victim of rape)",
+      "explanation": "The doctor, after conducting the medical examination and preparing the report, must immediately send it to the concerned police officer, who then forwards it to the Magistrate."
+    },
+    {
+      "section_number": "CrPC Section 164A(5)",
+      "title": "Medical report to record time of examination (Victim of rape)",
+      "explanation": "The medical report prepared after the examination must note the exact time at which the medical examination was started and completed."
+    },
+    {
+      "section_number": "CrPC Section 164A(4)",
+      "title": "Medical report to record consent (Victim of rape)",
+      "explanation": "The medical report must explicitly record that consent for the medical examination of the survivor was obtained."
+    },
+    {
+      "section_number": "CrPC Section 164A(2)",
+      "title": "Contents of the medical report (Victim of rape)",
+      "explanation": "After obtaining consent, the doctor must immediately examine the survivor and prepare a detailed report including conclusions about the survivor’s injuries, mental condition, and other relevant findings."
+    },
+    {
+      "section_number": "CrPC Section 164A(1)",
+      "title": "Medical examination of victim of rape",
+      "explanation": "Police are required to send the survivor to an authorised doctor for a medical examination within 24 hours of receiving information about a criminal incident, which can only happen with the consent of the survivor or someone on her behalf."
+    },
+    {
+      "section_number": "IPC Section 166B",
+      "title": "Punishment for non-treatment of victim by public servant",
+      "explanation": "A public servant who fails to provide medical treatment or send a victim for medical examination in certain cases is punishable with imprisonment for up to one year and/or a fine."
+    },
+    {
+      "section_number": "CrPC Section 357C",
+      "title": "Duty of hospitals to provide medical treatment",
+      "explanation": "All hospitals, public or private, are mandated to provide first-aid or medical treatment free of cost to victims of acid attack or rape and immediately inform the police."
+    },
+    {
+      "section_number": "CrPC Section 154(2)",
+      "title": "Copy of First Information Report (FIR) to informant",
+      "explanation": "A copy of the First Information Report (FIR) shall be given forthwith, free of cost, to the informant."
+    },
+    {
+      "section_number": "IPC Section 166A(c)",
+      "title": "Public servant disobeying direction under law",
+      "explanation": "Prescribes punishment for a public servant who fails to record any information relating to the commission of certain specified sexual offences or offences against women."
+    },
+    {
+      "section_number": "CrPC Section 154(1)",
+      "title": "Information in cognizable cases",
+      "explanation": "Lays down the procedure for recording information relating to the commission of a cognizable offence by an officer in charge of a police station, including reducing oral information to writing and obtaining the informant's signature."
+    },
+    {
+      "section_number": "CrPC Proviso to Section 309(1)",
+      "title": "Power to postpone or adjourn proceedings",
+      "explanation": "Specifies conditions under which proceedings in an inquiry or trial may be postponed or adjourned, particularly regarding the examination of witnesses, to ensure expeditious disposal of cases."
+    },
+    {
+      "section_number": "Indian Evidence Act Section 114A",
+      "title": "Presumption as to absence of consent in certain prosecutions for rape",
+      "explanation": "Provides that in a prosecution for rape, if sexual intercourse is proved and the victim states in her evidence that she did not consent, the court shall presume that she did not consent."
+    },
+    {
+      "section_number": "CrPC Section 327(2)",
+      "title": "Court to be open (Inquiry or trial of rape or allied offences)",
+      "explanation": "Mandates that the inquiry or trial of rape or related sexual offences shall be conducted in camera, where practicable, to protect the privacy and identity of the victim."
+    },
+    {
+      "section_number": "IPC Section 228A(2)",
+      "title": "Disclosure of identity of the victim of certain offences etc. (Prohibition)",
+      "explanation": "Prohibits the printing or publishing of the name or any matter which may reveal the identity of a person against whom certain sexual offences (e.g., rape, disrobing) are alleged or found to have been committed."
+    },
+    {
+      "section_number": "IPC Section 228A(3)",
+      "title": "Disclosure of identity of the victim of certain offences etc. (Exceptions)",
+      "explanation": "Details the specific exceptions under which the identity of a victim of certain sexual offences may be disclosed, such as with the written authorization of the victim or, in certain circumstances, their next of kin or the court."
+    },
+    {
+      "section_number": "IPC Section 228A(1)",
+      "title": "Disclosure of identity of the victim of certain offences etc. (Punishment)",
+      "explanation": "Prescribes punishment for anyone who prints or publishes the name or any matter which may make known the identity of a person against whom certain sexual offences are alleged or found to have been committed."
+    },
+    {
+      "section_number": "IPC Section 354B",
+      "title": "Assault or use of criminal force to woman with intent to disrobe",
+      "explanation": "Punishes any man who assaults or uses criminal force to any woman or abets such act with the intention of disrobing her or forcing her to be naked, with imprisonment for a term of three to seven years and fine."
+    }
+  ],
+  "total_sections": 35,
+  "extraction_method": "gemini-2.5-flash",
+  "source": "Extracted from PDF and PPTX documents"
+}
