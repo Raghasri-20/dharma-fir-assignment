@@ -30,14 +30,10 @@ class FIRRequest(BaseModel):
 
 app = FastAPI(title="Dharma FIR API", version="0.1.0")
 
-# CORS for local dev
+# CORS middleware - allow requests from anywhere
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
-    ],
-    allow_credentials=True,
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
