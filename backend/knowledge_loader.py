@@ -5,7 +5,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-BASE_DIR = Path(__file__).resolve().parents[1]
+BASE_DIR = Path(__file__).resolve().parent
 KB_PATH = BASE_DIR / "knowledge_base" / "legal_knowledge.json"
 LEGACY_KB_PATH = BASE_DIR / "knowledge_base" / "legal_reference.json"
 

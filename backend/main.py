@@ -4,12 +4,12 @@ from pydantic import BaseModel
 from typing import Any, Dict
 import logging
 
-from .fir_parser import parse_fir
-from .legal_mapper import map_to_legal_sections
-from .summarizer import summarize_text
-from .knowledge_loader import load_legal_references, load_legal_knowledge, format_legal_context
-from .gemini_extractor import get_gemini_extractor
-from .gemini_legal_mapper import create_gemini_legal_mapper
+from fir_parser import parse_fir
+from legal_mapper import map_to_legal_sections
+from summarizer import summarize_text
+from knowledge_loader import load_legal_references, load_legal_knowledge, format_legal_context
+from gemini_extractor import get_gemini_extractor
+from gemini_legal_mapper import create_gemini_legal_mapper
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

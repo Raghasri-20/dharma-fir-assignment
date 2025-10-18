@@ -43,11 +43,8 @@ class GeminiLegalMapper:
         logger.info("Sending legal mapping prompt to Gemini")
         
         try:
-            # Set request timeout and retry configuration
-            response = self.model.generate_content(
-                [prompt],
-                request_options={"timeout": 45}  # 45 second timeout for Gemini API
-            )
+            # Generate content with Gemini
+            response = self.model.generate_content([prompt])
             print("✓ Response received from Gemini")
             logger.info("Received legal mapping response from Gemini")
             
@@ -161,10 +158,7 @@ Rules:
 Refined JSON:"""
 
         try:
-            response = self.model.generate_content(
-                [refine_prompt],
-                request_options={"timeout": 30}
-            )
+            response = self.model.generate_content([refine_prompt])
             
             print("✓ Refinement response received")
             

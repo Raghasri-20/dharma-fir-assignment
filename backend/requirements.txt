@@ -1,0 +1,23 @@
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# CORS middleware
+python-multipart==0.0.6
+
+# Google Generative AI (Gemini)
+google-generativeai==0.3.1
+
+# Document processing
+pypdf==3.17.1
+python-pptx==0.6.23
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests (optional, for testing)
+requests==2.31.0
+
+# Additional utilities
+typing-extensions==4.8.0
