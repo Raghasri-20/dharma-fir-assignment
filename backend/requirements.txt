@@ -21,3 +21,7 @@ requests==2.31.0
 
 # Additional utilities
 typing-extensions==4.8.0
+
+# Data analysis (required for backend logic)
+pandas==2.1.1
+
